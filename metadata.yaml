@@ -1,0 +1,29 @@
+_repo: The-Century-Illustrated-Monthly-Magazine-Vol-LXXXV-New-Series-Vol-LXIII-November-1912-to-Apri__68023
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-05-08'
+identifiers:
+  gutenberg: '68023'
+language: en
+pgterms:marc904: https://archive.org/details/centuryillustra01conggoog/page/n15/mode/2up
+pgterms:marc905: 20190806065329scott
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Jane Robins, Reiner Ruf, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Century Co.,1912,copyright 1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Century Illustrated Monthly Magazine, Vol. LXXXV: New Series Vol. LXIII,
+  November 1912 to April 1913'
+url: http://www.gutenberg.org/ebooks/68023
