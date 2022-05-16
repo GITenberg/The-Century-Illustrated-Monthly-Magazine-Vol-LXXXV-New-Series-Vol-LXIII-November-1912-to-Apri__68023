@@ -6,7 +6,12 @@ contributor:
     alias: Verschillende
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
+covers:
+- cover_type: archival
+  image_path: 68023-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68023#The-Century-Illustrated-Monthly-Magazine-Vol-LXXXV-New-Series-Vol-LXIII-November-1912-to-Apri_
 gutenberg_issued: '2022-05-08'
 identifiers:
   gutenberg: '68023'
